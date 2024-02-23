@@ -19,7 +19,7 @@ const result = await transport.sendMail({
   html: `
         <div>
         <img src="cid:image2" />
-    <p> Gracias por tu Registro al 2do torneo de Golf </p>
+    <p> Gracias por tu Registro al 2do torneo de Golf. </p>
     <p>Para completar tu registro favor de realizar tu pago a la brevedad a esta cuenta:</p>
 <p>Banco: BANAMEX.</p>
 <p>Cuenta: 1503389.</p>
